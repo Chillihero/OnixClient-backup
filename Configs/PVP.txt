@@ -1,0 +1,486 @@
+MODULE
+Global Settings
+0
+ClickGuiKey 4 76
+IsMinecraftia 1 1
+moduleSnapping 1 0
+snapLines 1 1
+compactChat 1 1
+adaptModulePositionWitbScreenSize 1 1
+ShouldPlayClickSound 1 1
+ShowPauseScreenButton 1 1
+CenterMouseWhenUI2 1 0
+render_hasTextShadow 1 1
+ENDOFSETTING
+MODULE
+Zoom
+1
+key 4 86
+air 100
+SaveZoomScroll 1 0
+scrollZoom 1 1
+strength 3 5
+air 100
+SensivityReduced 3 0.2
+air 100
+doAnimation 1 0
+animationSpeed 3 22
+ENDOFSETTING
+MODULE
+Fullbright
+1
+Key 4 0
+gamma 3 20.8774
+ENDOFSETTING
+MODULE
+Freelook
+0
+Key 4 9
+isToggle 1 0
+NoPerspective 1 0
+ENDOFSETTING
+MODULE
+Environment Changer
+0
+Key 4 0
+changeTime 1 1
+usePcTime 1 0
+Time 3 0.5
+air 100
+changeFog 1 1
+fogColor 6 1 0 0 1 0 0 0.003 1
+entireSky 1 0
+air 100
+changeCloudColor 1 1
+cloudColor 6 0 0 1 0.4 0 0 0.003 1
+air 100
+changeWeather 1 0
+rainIntensity 3 1
+fogIntensity 3 0
+darkLighting 3 0
+ENDOFSETTING
+MODULE
+Java Debug Menu
+0
+Key 4 114
+hideOtherModsWhenOn 1 1
+RightSide 1 0
+debugCrosshair 1 1
+ENDOFSETTING
+MODULE
+Toggle Sprint/Sneak
+1
+Key 4 0
+isTop 1 0
+sprintKey 4 17
+sneakKey 4 16
+ToggleSprint 1 1
+ToggleSneak 1 0
+alwaysSprint 1 1
+showIndicator 1 0
+air 100
+sprintfix 1 1
+ENDOFSETTING
+MODULE
+Auto GG
+1
+Key 4 0
+capitalLetters 1 1
+antiGG 1 0
+antiToxic 1 1
+ENDOFSETTING
+MODULE
+Chunk Border
+0
+Key 4 115
+ENDOFSETTING
+MODULE
+Render Options
+0
+Key 4 0
+nRenderDistance 2 16
+renderEntity 1 0
+renderBlockEntity 1 0
+renderParticles 1 0
+renderWeather 1 0
+renderItemInHand 1 0
+air 100
+ENDOFSETTING
+MODULE
+Third Person Nametag
+1
+ENDOFSETTING
+MODULE
+Block Outline/Overlay
+1
+changeWidth 1 1
+outlineWidth 3 0.0224506
+air 100
+showOutline 1 1
+showFullOutline 1 0
+outlineColor 6 0.176471 0.490196 0.454902 1 0 0 0.003 1
+air 100
+showHover 1 0
+showFullHighlight 1 0
+hoverColor 6 0.176471 0.490196 0.454902 1 0 0 0.003 1
+ENDOFSETTING
+MODULE
+Custom Crosshair
+1
+invertColor 1 0
+crosshairColor 6 1 1 1 1 0 0 0.003 1
+air 100
+redEnemy 1 1
+showInThirdPerson 1 1
+scale 3 1
+air 100
+openEditor 1 0
+ENDOFSETTING
+MODULE
+Hitboxes
+0
+Key 4 116
+ENDOFSETTING
+MODULE
+Waypoints
+0
+Key 4 117
+deathWaypoint 1 1
+scale 3 0.75
+textColor 6 1 1 1 1 0 0 0.003 1
+backColor 6 0 0 0 0 0 0 0.003 1
+ENDOFSETTING
+MODULE
+Player List Tab
+0
+Key 4 84
+outline 1 1
+centerTxt 1 1
+fixedLenght 1 0
+air 100
+ColognePerLine 2 14
+air 100
+startHeight 3 25
+scale 3 0.996022
+textColor 6 1 1 1 1 0 0 0.003 1
+backColor 6 0 0 0 0.5 0 0 0.003 1
+outlineColor 6 0.07 0.07 0.07 0.8 0 0 0.003 1
+ENDOFSETTING
+MODULE
+Hurt Color
+1
+hurtColor 6 1 0.392157 0.470588 0.6 0 0 0.018 1
+ENDOFSETTING
+MODULE
+TNT Timer
+1
+paddingSetting 3 2
+scale 3 1
+textColor 6 0.75 0.75 0.75 1 0 0 0.003 1
+backColor 6 0 0 0 0.5 0 0 0.003 1
+ENDOFSETTING
+MODULE
+Light Overlay
+0
+Key 4 0
+updateTime 3 0.75
+air 100
+downHeight 2 9
+radius 2 11
+ENDOFSETTING
+MODULE
+Creative Tools
+0
+useBlockReach 1 0
+blockReach 2 11
+air 100
+jetpackKeybind 4 0
+jetpackSpeed 3 3
+air 100
+freecamKeybind 4 0
+freecamTeleportKeybind 4 0
+freecamSpeed 3 2
+air 100
+phaseKeybindphaseKeybind 4 0
+phaseVertically 1 0
+air 100
+copyPlayerPosKeybind 4 0
+copySelectedPosKeybind 4 0
+air 100
+ENDOFSETTING
+VISUALMODULE
+FPS Counter
+1
+rpos 5 50.9999 32.4304
+anchor 2 2
+size 5 40 12
+brackets 1 1
+padding 5 40 2
+scale 3 1
+textColor 6 0.588235 1 0.901961 1 0 0 0.003 1
+backColor 6 0 0 0 0 0 0 0.003 1
+ENDOFSETTING
+VISUALMODULE
+Clock
+0
+rpos 5 2.5014 25.2933
+anchor 2 1
+size 5 50 15
+Clock24 1 0
+showSeconds 1 0
+showTimeText 1 1
+isGameTime 1 0
+air 100
+brackets 1 0
+padding 5 64 2
+scale 3 1
+textColor 6 1 1 1 1 0 0 0.003 1
+backColor 6 0 0 0 0.5 0 0 0.003 1
+ENDOFSETTING
+VISUALMODULE
+Keystrokes
+1
+rpos 5 0 204.829
+anchor 2 3
+size 5 70.7128 83.5639
+hideCPS 1 1
+hideMouseButton 1 0
+hideSpace 1 0
+air 100
+drawBorder 1 1
+borderUseTextColor 1 1
+KEY_BORDER_WIDTH 3 0.94895
+air 100
+textUseFadeAnimation 1 0
+borderUseFadeAnimation 1 1
+fadeDuration 3 0.340154
+air 100
+keyForward 4 87
+keyLeft 4 65
+keyBackward 4 83
+keyRight 4 68
+UseArrows 1 0
+air 100
+KEY_WIDTH 3 22.9112
+SpaceSize 5 42.9832 2.48173
+padding 3 1.62725
+sizeOfTheFont 3 1
+cpsFontRatio 3 0.58
+scale 3 0.982285
+air 100
+textColor 6 1 1 1 1 0 0 0.003 1
+downtextColor 6 1 1 1 1 0 0 0.003 1
+upColor 6 0.588235 1 0.901961 0.5 0 0 0.003 1
+downColor 6 0.176471 0.490196 0.454902 0.6 0 0 0.003 1
+upBorderColor 6 0.176471 0.490196 0.454902 0.3 0 0 0.003 1
+downBorderColor 6 0.588235 1 0.901961 0.6 0 0 0.003 1
+ENDOFSETTING
+VISUALMODULE
+Coordinates
+1
+rpos 5 40 43.3778
+anchor 2 2
+size 5 40 36
+useVanillaCoords 1 0
+showXYZ 1 1
+SameLine 1 0
+Precise 1 0
+air 100
+brackets 1 0
+padding 5 2 3
+scale 3 1
+textColor 6 0.588235 1 0.901961 1 0 0 0.003 1
+backColor 6 0 0 0 0 0 0 0.003 1
+ENDOFSETTING
+VISUALMODULE
+Server IP
+1
+rpos 5 142.333 20.0284
+anchor 2 2
+size 5 76 12
+showPort 1 0
+brackets 1 0
+air 100
+padding 5 2 2
+scale 3 1
+textColor 6 0.588235 1 0.901961 1 0 0 0.003 1
+backColor 6 0 0 0 0 0 0 0.003 1
+ENDOFSETTING
+VISUALMODULE
+CPS Counter
+1
+rpos 5 283.333 17.9915
+anchor 2 3
+size 5 45 12
+hideCPS 1 0
+RightClicks 1 1
+]psAfter 1 1
+otherSplitter 1 0
+greySplitter 1 1
+air 100
+brackets 1 1
+padding 5 45 2
+scale 3 1
+textColor 6 0.588235 1 0.901961 1 0 0 0.003 1
+backColor 6 0 0 0 0 0 0 0.003 1
+ENDOFSETTING
+VISUALMODULE
+Direction HUD
+0
+rpos 5 174 0
+anchor 2 1
+size 5 50 5
+compassAmount 2 45
+compassWidth 3 100
+fadeAt 2 20
+scale 3 1
+textColor 6 1 1 1 1 0 0 0.003 1
+backColor 6 0 0 0 0 0 0 0.003 1
+ENDOFSETTING
+VISUALMODULE
+Speed Display
+0
+rpos 5 73.541 14.7893
+anchor 2 4
+size 5 10 65
+oneNumber 1 0
+air 100
+brackets 1 0
+padding 5 69 2
+scale 3 1
+textColor 6 1 1 1 1 0 0 0.003 1
+backColor 6 0 0 0 0.5 0 0 0.003 1
+ENDOFSETTING
+VISUALMODULE
+Reach Display
+0
+rpos 5 2.5014 36.3133
+anchor 2 1
+size 5 25 15
+showReachText 1 1
+oneNumber 1 0
+air 100
+brackets 1 0
+padding 5 55 2
+scale 3 1
+textColor 6 1 1 1 1 0 0 0.003 1
+backColor 6 0 0 0 0.5 0 0 0.003 1
+ENDOFSETTING
+VISUALMODULE
+Combo Counter
+1
+rpos 5 305.333 18.3423
+anchor 2 4
+size 5 45 12
+showComboText 1 1
+brackets 1 1
+padding 5 45 2
+scale 3 1
+textColor 6 0.588235 1 0.901961 1 0 0 0.003 1
+backColor 6 0 0 0 0 0 0 0.003 1
+ENDOFSETTING
+VISUALMODULE
+Pack Display
+1
+rpos 5 0 12
+anchor 2 3
+size 5 73 12
+showFirstOnly 1 0
+showLastOnly 1 1
+XorStr(showDescriptions 1 0
+deletvalidpacks 1 0
+air 100
+scale 3 1
+backColor 6 0 0 0 0 0 0 0.003 1
+ENDOFSETTING
+VISUALMODULE
+Armor HUD
+1
+rpos 5 1 121.463
+anchor 2 3
+size 5 60.61 90.44
+horizontal 1 0
+isHotbar 1 0
+showHandItem 1 1
+air 100
+rightText 1 1
+showDurability 1 1
+durabilityPercent 1 0
+showMaxDurability 1 1
+air 100
+padding 3 2.61
+scale 3 1
+air 100
+walmartGlint 1 0
+glint_speed 3 0.3
+glint_opacity 3 0.32
+glint_color 6 0.737254 0.149019 0.90196 0.35 0 0 0.003 1
+air 100
+textColor 6 0.588235 1 0.901961 1 0 0 0.003 1
+ENDOFSETTING
+VISUALMODULE
+Movable Paperdoll
+1
+rpos 5 33.6929 51.7401
+anchor 2 4
+size 5 29.9002 15
+alwaysRender 1 1
+scale 3 1.99335
+ENDOFSETTING
+VISUALMODULE
+Potion HUD
+1
+rpos 5 0 137.93
+anchor 2 1
+size 5 110.2 56.6
+iconOpacity 3 0.57401
+air 100
+textPadding 3 0.2
+scale 3 1
+textColor 6 0.588235 1 0.901961 1 0 0 0.003 1
+ENDOFSETTING
+VISUALMODULE
+Audio Subtitles
+0
+rpos 5 150.625 86.625
+anchor 2 4
+size 5 40 10
+padeing 3 2
+ignoreUselessSounds 1 1
+air 100
+maxNameLenght 2 14
+maxColumnCount 2 8
+air 100
+scale 3 1
+textColor 6 1 1 1 1 0 0 0.003 1
+backColor 6 0 0 0 0.5 0 0 0.003 1
+ENDOFSETTING
+VISUALMODULE
+Flappy Bird
+0
+rpos 5 2.59184 95.984
+anchor 2 4
+size 5 50 80
+jmpKey 4 38
+pausekey 4 80
+air 100
+Autoplay 1 0
+CaughtIn4k 1 0
+scale 3 1
+ENDOFSETTING
+VISUALMODULE
+Snake
+0
+rpos 5 50.9894 51.6533
+anchor 2 2
+size 5 50 50
+upKey 4 38
+downKey 4 40
+leftKey 4 37
+rightKey 4 39
+pausekey 4 80
+air 100
+AutoPlay 1 0
+ItsFullHD 1 0
+scale 3 1
+ENDOFSETTING
